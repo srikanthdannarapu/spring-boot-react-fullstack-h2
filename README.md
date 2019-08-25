@@ -1,1 +1,1 @@
-# spring-boot-react-fullstack-h2
+# spring-boot-react-fullstack-crud-h2
